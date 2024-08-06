@@ -1,0 +1,51 @@
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\bin\Debug\Diploma.exe.config
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\bin\Debug\Diploma.exe
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\bin\Debug\Diploma.pdb
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\obj\Debug\Diploma.csproj.AssemblyReference.cache
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\obj\Debug\Diploma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\obj\Debug\Diploma.Form1.resources
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\obj\Debug\Diploma.Properties.Resources.resources
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\obj\Debug\Diploma.csproj.GenerateResource.cache
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\obj\Debug\Diploma.csproj.CoreCompileInputs.cache
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\obj\Debug\Diploma.exe
+C:\Users\Ks1berg\source\repos\Diploma\Diploma\obj\Debug\Diploma.pdb
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\bin\Debug\Diploma.exe.config
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\bin\Debug\Diploma.exe
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\bin\Debug\Diploma.pdb
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.AssemblyReference.cache
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.Form1.resources
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.Авторизация.resources
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.Properties.Resources.resources
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.ГлавноеМеню.resources
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.GenerateResource.cache
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.CoreCompileInputs.cache
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.exe
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.pdb
+C:\Users\Ks1berg\Desktop\Диплом\Diploma\Diploma\obj\Debug\Diploma.Перемещение.resources
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\bin\Debug\Diploma.exe.config
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\bin\Debug\Diploma.exe
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\bin\Debug\Diploma.pdb
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.AssemblyReference.cache
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.Form1.resources
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.Авторизация.resources
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.Properties.Resources.resources
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.ГлавноеМеню.resources
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.Перемещение.resources
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.GenerateResource.cache
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.CoreCompileInputs.cache
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.exe
+C:\Users\usersql\Desktop\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.pdb
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\bin\Debug\Diploma.exe.config
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\bin\Debug\Diploma.exe
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\bin\Debug\Diploma.pdb
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.AssemblyReference.cache
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.Авторизация.resources
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.Properties.Resources.resources
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.ГлавноеМеню.resources
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.Перемещение.resources
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.GenerateResource.cache
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.CoreCompileInputs.cache
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.exe
+C:\Users\Ks1berg\Desktop\Диплом\Большаков диплом\Diploma\Diploma\obj\Debug\Diploma.pdb
